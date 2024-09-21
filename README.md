@@ -1,5 +1,8 @@
-English Version Below!!
------------------------
+
+
+
+
+[English version below]
 
 Dans ce répertoire, je présente mes travaux en conception et simulation, qui incluent à la fois des devoirs pratiques et des projets de plus grande envergure. Le principal logiciel que j’utilise pour les simulations en mécanique des fluides est STAR-CCM+.
 
