@@ -21,3 +21,5 @@ Our lab sessions typically last between 2 to 4 hours, during which we are tasked
 For my Computational Fluid Dynamics (CFD) projects, I have primarily used Python. I completed two major CFD projects during my international semester at Istanbul Technical University, and I plan to work on similar projects in the future using various software, including STAR-CCM+, Python, or other tools.
 
 More projects of this nature will be added this year as I continue to explore different software and methodologies in CFD and design.
+
+/copyright september 2024/
